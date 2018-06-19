@@ -1,11 +1,13 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 # vim:fenc=utf-8
-#
-# Copyright © %YEAR% %USER% <%MAIL%>
-#
-# Distributed under terms of the %LICENSE% license.
+# created_on: %FDATE%
 
 """
-%HERE%
+%FFILE%
 """
+
+%HERE%
+__version__ = '1.0.0'
+__author__ = '%USER%  <%MAIL%>'
+__copyright__ = 'Copyright (C) %YEAR% Ethereal Machines Pvt. Ltd. All rights reserved'
