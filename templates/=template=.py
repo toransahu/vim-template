@@ -10,4 +10,6 @@
 %HERE%
 __version__ = '1.0.0'
 __author__ = '%USER%  <%MAIL%>'
-__copyright__ = 'Copyright (C) %YEAR% Ethereal Machines Pvt. Ltd. All rights reserved'
+__license__ = 'Distributed under terms of the %LICENSE% license.'
+__copyright__ = 'Copyright (C) %YEAR% Ethereal Machines Pvt. Ltd. All rights reserved.'
+
