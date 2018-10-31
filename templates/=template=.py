@@ -1,11 +1,13 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 # vim:fenc=utf-8
-#
-# Copyright © %YEAR% %USER% <%MAIL%>
-#
-# Distributed under terms of the %LICENSE% license.
+# created_on: %YEAR%-%MONTH%-%DAY% %TIME%
 
 """
-%HERE%
+%FILE%.%EXT%
 """
+
+%HERE%
+
+__author__ = '%USER% <%MAIL%>'
+__license__ = 'Distributed under terms of the %LICENSE% license'
