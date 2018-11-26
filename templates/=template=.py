@@ -4,7 +4,7 @@
 # created_on: %YEAR%-%MONTH%-%DAY% %TIME%
 
 """
-%FILE%.%EXT%
+%TITLE%.
 """
 
 %HERE%
