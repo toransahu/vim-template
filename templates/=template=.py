@@ -3,9 +3,7 @@
 # vim:fenc=utf-8
 # created_on: %YEAR%-%MONTH%-%DAY% %TIME%
 
-"""
-%TITLE%.
-"""
+"""%TITLE%."""
 
 %HERE%
 
