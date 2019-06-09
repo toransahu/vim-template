@@ -7,4 +7,11 @@
 
 package main
 
-%HERE%
+
+import "fmt"
+
+func main() {
+    fmt.Println("vim-go")
+     %HERE%
+}
+
