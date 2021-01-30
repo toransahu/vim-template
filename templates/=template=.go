@@ -5,11 +5,4 @@
 // Distributed under terms of the %LICENSE% license.
 //
 
-package main
-
-
-import "fmt"
-
-func %HERE%() {
-}
-
+package %CURRDIRNAME% %HERE%
